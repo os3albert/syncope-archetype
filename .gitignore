@@ -1,2 +1,5 @@
 target
-
+common/target
+console/target
+core/target
+enduser/target
