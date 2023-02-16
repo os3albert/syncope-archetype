@@ -1,2 +1,2 @@
-./target
-./target/common/target
+./target/*
+./target/common/target/*
